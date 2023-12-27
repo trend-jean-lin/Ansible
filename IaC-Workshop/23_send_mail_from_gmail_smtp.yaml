@@ -6,7 +6,7 @@
     gmail:
       smtp_server: "smtp.gmail.com"
       username: "{{ Gmail_username }}"
-      password: "{{ Gmail_password}}"
+      password: "{{ Gmail_password }}"
       address: "{{ Gmail_address }}"
 
   tasks:
